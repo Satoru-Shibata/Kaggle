@@ -11,7 +11,7 @@
 | **Datasets**     | 10%     | 354/3463     | Solo 3 Bronze Medals             |
 | **Competitions** | Top 20-30% Level
 
-### Award code
+### Award Python Code
 ####  Solo 3 Silver Medals
 1. ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 2. ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
@@ -32,12 +32,12 @@
 12. ["COVID-19 with H2OAutoML Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
 13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
 
-### Supplement
+### Remarks
 - Activity period: From November 2018 to March 2021 (2 years 5 months)
 - Current Status: Retired
 - Reason: To focus on my job as a Data Scientist
 
-### Remarks
+### Relevance
 1. Degree
     - [Master of Arts in Environmental Studies at Sophia University Graduate School, Japan](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
       - [Total GPA 3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
