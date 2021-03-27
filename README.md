@@ -20,7 +20,7 @@
 #### Solo 13 Bronze Medals
 1. ["Optimized Logit LightGBM Classifier and CNN Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
 2. ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
-3. [LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
+3. ["LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
 4. ["LightGBM with the Inference and Empirical Analysis"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
 5. ["Submission and the Inference of LightGBM"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Submission_and_the_Inference_of_LightGBM.ipynb)
 6. ["Market Prediction XGBoost with GPU Modified"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
