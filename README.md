@@ -3,7 +3,7 @@
 
 ### Title: [Kaggle 3x Expert in Machine Learning and Data Science](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg)
 
-### Summary
+### [Summary](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg)
 | Departments      | Top     | Highest Rank | Award                            | 
 | :---:            | :---:   | :---:        | :---:                            |
 | **Code**         | < 0.2%  | 317/161898   | Solo 3 Silver + 13 Bronze Medals |
@@ -11,7 +11,7 @@
 | **Datasets**     | 10%     | 354/3463     | Solo 3 Bronze Medals             |
 | **Competitions** | Top 20-30% Level
 
-### Award Python Code
+### Award Python3 Code in Jupyter Notebook
 ####  Solo 3 Silver Medals
 1. ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 2. ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
@@ -33,9 +33,9 @@
 13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
 
 ### Remarks
-- Activity period: From November 2018 to March 2021 (2 years 5 months)
-- Current Status: Retired
-- Reason: To focus on my job as a Data Scientist
+- Activity period: From November 2018 to March 2021 (2 years 5 months);
+- Current Status: Retired;
+- Reason: To focus on my job as a Data Scientist in Japan.
 
 ### Relevance
 1. Degree
