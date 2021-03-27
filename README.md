@@ -31,3 +31,15 @@
 11. ["LGBM on Lyft Tabular Data [Inference] + Tuning"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 12. ["COVID-19_with_H2OAutoML_Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
 13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
+
+### Supplement
+- Activity period: From November 2018 to March 2021 (2 years 5 months)
+- Current Status: Retired
+- Reason: To focus on my job as a Data Scientist
+
+### Remarks
+1. Degree
+    - [Master of Arts in Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
+      - [Total GPA 3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+    - [Bachelor of Economics](https://github.com/satorushibata0627/Publishment/raw/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
+1. [発表論文集](https://github.com/satorushibata0627/Published_Papers)
