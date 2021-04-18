@@ -35,7 +35,7 @@
 ### Remarks
 1. Activity period: From November 2018 to March 2021 (2 years 5 months)
 1. Current Status: Retired
-1. Reason: To focus on my job as a Data Scientist in Japan
+1. Reason: To focus on my job as a Data Science Strategist at [AVANT CORPORATION](https://www.avantcorp.com/en/) in Japan
 
 ### Relevance
 1. Degree
