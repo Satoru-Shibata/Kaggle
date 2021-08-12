@@ -1,4 +1,4 @@
-# [Kaggle](https://www.kaggle.com/) Publishment
+# [Kaggle](https://www.kaggle.com/) Publications
 ### Author: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOPiprBZTjKc0zdCa4HERA%3D%3D)
 
 ### Title: [Kaggle Solo Triple Expert Top < 0.2%(317/161,898) in Machine Learning and Data Science](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_Solo_3x_Expert.jpg)
