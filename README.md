@@ -9,7 +9,7 @@
 | **Code**         | 0.1% Level  | 317/161898   | Solo 3 Silver + 13 Bronze Medals |
 | **Discussion**   | 0.3%    | 588/188433   | Solo 100 Bronze Medals           |
 | **Datasets**     | 10%     | 354/3463     | Solo 3 Bronze Medals             |
-| **Competitions** | Top 20-30% Level
+| **Competitions** | 20-30% Level
 
 ### [Award](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg) Python3 Code in Jupyter Notebook
 ####  Solo 3 Silver Medals
