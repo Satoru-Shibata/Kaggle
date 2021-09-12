@@ -1,7 +1,7 @@
 # [Kaggle](https://www.kaggle.com/) Publications
 ### Author: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOPiprBZTjKc0zdCa4HERA%3D%3D)
 
-### Title: [Kaggle Triple Expert Solo Top 0.1% Level in Machine Learning and Data Science](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_Solo_3x_Expert.jpg)
+### Title: [Kaggle Triple Expert Solo Top 0.1% Level in Data Science and Artificial Intelligence](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_Solo_3x_Expert.jpg)
 
 ### [Summary](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg)
 | Departments      | Top     | Highest Rank | Award                            | 
@@ -36,12 +36,3 @@
 1. Activity period: From November 2018 to March 2021 (2 years 5 months)
 1. Current Status: Retired
 1. Reason: To focus on my job as a Data Scientist at [AVANT CORPORATION](https://www.avantcorp.com/en/) in Japan
-
-### Relevance
-1. Degree
-    - [Master of Arts in Environmental Studies at Sophia University Graduate School, Japan](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
-      - [Total GPA 3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-    - [Bachelor of Economics](https://github.com/satorushibata0627/Publishment/raw/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
-1. [発表論文集](https://github.com/satorushibata0627/Published_Papers)
-    - [『エネルギー・気候変動と日本経済における 2050 年問題に向けた動的マクロ計量モデルに基づく ESG 投資の利用: 非線形パネル VAR-SPDE-LSTM モデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Published_Papers/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
-    - [Rによる実装結果](https://github.com/satorushibata0627/Published_Papers/blob/main/%E9%96%8B%E7%99%BA%E8%B3%87%E6%96%99_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.ipynb)
