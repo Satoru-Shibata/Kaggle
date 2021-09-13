@@ -11,7 +11,7 @@
 | **Datasets**     | 10%     | 354/3463     | Solo 3 Bronze Medals             |
 | **Competitions** | 20-30% Level
 
-### [Award](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg) Python3 Code in Jupyter Notebook
+### [Award](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg) [Python](https://docs.python.org/3/tutorial/) Code in Jupyter Notebook
 ####  Solo 3 Silver Medals
 1. ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 2. ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
