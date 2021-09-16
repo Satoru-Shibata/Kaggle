@@ -34,6 +34,7 @@
 
 #### Mathematics for Data Science
 - [Data Science Math Skills](https://github.com/satorushibata0627/Kaggle/raw/main/20210916_Coursera_Data_Science_Math_Skills.pdf)
+- [Time Series Analysis](https://github.com/satorushibata0627/Kaggle/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
 
 ### Remarks
 1. Activity period: From November 2018 to March 2021 (2 years 5 months)
