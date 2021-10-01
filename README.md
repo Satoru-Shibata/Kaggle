@@ -1,9 +1,9 @@
 # [Kaggle](https://www.kaggle.com/) Publications
 ### Author: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOPiprBZTjKc0zdCa4HERA%3D%3D)
 
-### Title: [Kaggle Triple Expert Solo Top 0.1% Level in Data Science and Artificial Intelligence](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_Solo_3x_Expert.jpg)
+### Title: [Kaggle Triple Expert Solo Top 0.1% Level in Data Science and AI](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_Solo_3x_Expert.jpg)
 
-### [Summary](https://github.com/satorushibata0627/Kaggle/blob/main/20210319_Kaggle_3x_Expert.jpg)
+### Executive Summary
 | Departments      | Top     | Highest Rank | Award                            | 
 | :---:            | :---:   | :---:        | :---:                            |
 | **Code**         | 0.1% Level  | 317/161898   | Solo 3 Silver + 13 Bronze Medals |
