@@ -1,7 +1,7 @@
 # [Kaggle](https://www.kaggle.com/) Publications
 ### Author: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOPiprBZTjKc0zdCa4HERA%3D%3D)
 
-### Title: [Kaggle Triple Expert Solo Top 0.1% Level in Data Science and AI](https://github.com/satorushibata0627/Kaggle/raw/main/20210319_Kaggle_Solo_3x_Expert.jpg)
+### Title: [Kaggle Triple Expert Solo Top 0.1%, 0.3%, 10% Level, 119 Medals in Data Science and AI](https://github.com/satorushibata0627/Kaggle/raw/main/20210319_Kaggle_Solo_3x_Expert.jpg)
 
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Award                            | 
@@ -39,4 +39,4 @@
 ### Remarks
 1. Activity period: From November 2018 to March 2021 (2 years 5 months)
 1. Current Status: Retired
-1. Reason: To focus on my job as a Data Scientist at [AVANT CORPORATION](https://www.avantcorp.com/en/) in Japan
+1. Reason: To focus on my job as a Data Scientist at AVANT CORPORATION, Japan
