@@ -1,14 +1,12 @@
-# [Kaggle](https://www.kaggle.com/) Publications
-### Author: [Satoru Shibata / 柴田 怜](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnOPiprBZTjKc0zdCa4HERA%3D%3D)
-
-### Title: [Kaggle Triple Expert Solo Top 0.1%, 0.3%, 10% Level, 119 Medals in Data Science and AI](https://github.com/satorushibata0627/Kaggle/raw/main/20210319_Kaggle_Solo_3x_Expert.jpg)
-
+# Kaggle Publications
+### Author: Satoru Shibata (柴田 怜)
+### Title: [Kaggle Triple Expert Top 0.1%, 0.3%, 10%](https://github.com/satorushibata0627/Kaggle/raw/main/20210319_Kaggle_Solo_3x_Expert.jpg)
 ### Executive Summary
-| Departments      | Top     | Highest Rank | Award                            | 
+| Departments      | Top     | Highest Rank | Solo Award Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
-| **Code**         | 0.1% Level  | 317/161898   | Solo 3 Silver + 13 Bronze Medals |
-| **Discussion**   | 0.3%    | 588/188433   | Solo 100 Bronze Medals           |
-| **Datasets**     | 10%     | 354/3463     | Solo 3 Bronze Medals             |
+| **Code**         | 0.1% Level  | 317/161898   | 3 Silver 13 Bronze  |
+| **Discussion**   | 0.3%    | 588/188433   | 100 Bronze           |
+| **Datasets**     | 10%     | 354/3463     | 3 Bronze             |
 | **Competitions** | 20-30% Level
 
 ### Award Python Code in Jupyter Notebook
