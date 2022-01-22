@@ -1,12 +1,14 @@
 # Kaggle Publications
-### Author: Satoru Shibata (柴田 怜)
-### Title: [Kaggle Triple Expert Top 0.1%, 0.3%, 10%](https://github.com/satorushibata0627/Kaggle/raw/main/20210319_Kaggle_Solo_3x_Expert.jpg)
+### About the Author
+- Name: Satoru Shibata (柴田 怜)
+- Job: Data Science Consultant
+- Title: [Kaggle Triple Expert Top 0.1%, 0.3%, 10%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Solo Award Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
-| **Code**         | 0.1% Level  | 317/161898   | 3 Silver 13 Bronze  |
-| **Discussion**   | 0.3%    | 588/188433   | 100 Bronze           |
-| **Datasets**     | 10%     | 354/3463     | 3 Bronze             |
+| **Code**         | 0.1% Level  | 317/161,898   | 3 Silver 13 Bronze  |
+| **Discussion**   | 0.3%    | 588/188,433   | 100 Bronze           |
+| **Datasets**     | 10%     | 354/3,463     | 3 Bronze             |
 | **Competitions** | 20-30% Level
 
 ### Award Python Code in Jupyter Notebook
@@ -35,6 +37,6 @@
 - [Time Series Analysis](https://github.com/satorushibata0627/Kaggle/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
 
 ### Remarks
-1. Activity period: From November 2018 to March 2021 (2 years 5 months)
-1. Current Status: Retired
-1. Reason: To focus on my job as a Data Scientist at AVANT CORPORATION, Japan
+- Activity period: From November 2018 to March 2021 (2 years 5 months)
+- Current Status: Retired
+- Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836) for Japan
