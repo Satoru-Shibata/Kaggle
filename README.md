@@ -1,4 +1,4 @@
-# Kaggle Publications
+# Kaggle Publication
 ### About the Author
 - Name: Satoru Shibata (柴田 怜)
 - Job: Data Science Consultant
