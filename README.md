@@ -32,11 +32,11 @@
 12. ["COVID-19 with H2OAutoML Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
 13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
 
-#### Mathematics for Data Science
+#### Mathematical Statistics
 - [Data Science Math Skills](https://github.com/satorushibata0627/Kaggle/raw/main/20210916_Coursera_Data_Science_Math_Skills.pdf)
 - [Time Series Analysis](https://github.com/satorushibata0627/Kaggle/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
 
 ### Remarks
-- Activity period: From November 2018 to March 2021 (2 years 5 months)
+- Activity period at Kaggle: From November 2018 to March 2021 (2 years 5 months)
 - Current Status: Retired
 - Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836) for Japan
