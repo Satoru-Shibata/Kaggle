@@ -1,7 +1,7 @@
 # Kaggle Publication
 ### About the Author
 - Name: Satoru Shibata (柴田 怜)
-- Job: Data Science Consultant
+- Job: Data Scientist
 - Title: [Kaggle Triple Expert Top 0.1%, 0.3%, 10%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Solo Award Medals                | 
