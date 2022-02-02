@@ -37,6 +37,6 @@
 - [Time Series Analysis](https://github.com/satorushibata0627/Kaggle/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
 
 ### Remarks
-- Activity period at Kaggle: From November 2018 to March 2021 (2 years 5 months)
-- Current Status: Retired
+- Current Status: Retirement
+- Activity period at Kaggle: 2 years 5 months from November 2018 to March 2021
 - Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836) for Japan
