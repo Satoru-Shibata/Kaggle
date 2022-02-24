@@ -1,14 +1,14 @@
-# Kaggle Publication
+# Kaggle Publications
 ### About the Author
 - Name: Satoru Shibata (柴田 怜)
 - Job: Data Scientist
-- Title: [Kaggle Triple Expert Top 0.1%, 0.3%, 10%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
+- Title: [Kaggle Triple Expert Solo Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Solo Award Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
-| **Code**         | 0.1% Level  | 317/161,898   | 3 Silver 13 Bronze  |
+| **Code**         | 0.2%  | 317/161,898   | 3 Silver 13 Bronze  |
 | **Discussion**   | 0.3%    | 588/188,433   | 100 Bronze           |
-| **Datasets**     | 10%     | 354/3,463     | 3 Bronze             |
+| **Datasets**     | 1%     | 354/34,643     | 3 Bronze             |
 | **Competitions** | 20-30% Level
 
 ### Award Python Code in Jupyter Notebook
