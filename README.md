@@ -2,7 +2,7 @@
 ### About the Author
 - Name: Satoru Shibata (柴田 怜)
 - Job: Data Scientist
-- Title: [Kaggle Triple Expert Solo Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
+- Title: [Kaggle Triple Expert Solo Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf) within [3 months](https://github.com/Satoru-Shibata-JP/Kaggler/raw/main/20201222_Evidence_posted_on_Kaggle_for_first_time.pdf)
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Solo Award Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
@@ -32,11 +32,6 @@
 12. ["COVID-19 with H2OAutoML Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
 13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
 
-#### Mathematical Statistics
-- [Data Science Math Skills](https://github.com/satorushibata0627/Kaggle/raw/main/20210916_Coursera_Data_Science_Math_Skills.pdf)
-- [Time Series Analysis](https://github.com/satorushibata0627/Kaggle/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
-
 ### Remarks
 - Current Status: Retirement
-- Activity period at Kaggle: 2 years 5 months from November 2018 to March 2021
-- Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836) for Japan
+- Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836)
