@@ -1,8 +1,8 @@
 # Kaggler
 ### About the Author
-- Name: Satoru Shibata (柴田 怜)
+- Name: [Satoru Shibata (柴田 怜)](https://www.linkedin.com/in/satoru-shibata-jp/)
 - Job: Data Scientist
-- Title: [Kaggle Triple Expert Solo Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf) in less than 3 Months
+- Title: [Kaggle Triple Expert Solo Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
 ### Executive Summary
 | Departments      | Top     | Highest Rank | Solo Award Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
