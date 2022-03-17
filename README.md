@@ -4,7 +4,7 @@
 - Job: Data Scientist
 - Title: [Kaggle Triple Solo Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
 ### Executive Summary
-| Departments      | Top Levels| Highest Rank | Solo Award Medals                | 
+| Departments      | Top Levels| Highest Rank | Solo Awarded Medals                | 
 | :---:            | :---:   | :---:        | :---:                            |
 | **Code**         | 0.2%  | 317/161,898   | 3 Silver 13 Bronze  |
 | **Discussion**   | 0.3%    | 588/188,433   | 100 Bronze           |
