@@ -86,16 +86,36 @@
       - Code Silver Medal
 
 #### 13 Bronze Medals
-1. ["Optimized Logit LightGBM Classifier and CNN Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
-2. ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
-3. ["LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
-4. ["LightGBM with the Inference and Empirical Analysis"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
-5. ["Submission and the Inference of LightGBM"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Submission_and_the_Inference_of_LightGBM.ipynb)
-6. ["Market Prediction XGBoost with GPU Modified"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
-7. ["Cassava Leaf Disease Best Keras CNN Tuning"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
-8. ["RFCX Residual Network with TPU Customized"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_RFCX_Residual_Network_with_TPU_Customized.ipynb)
-9. ["Research with Customized Sharp Weighted"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Research_with_Customized_Sharp_Weighted.ipynb)
-10. ["Optimize CatBoost HyperParameter with Optuna and GPU"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_CatBoost_HyperParameter_with_Optuna_and_GPU.ipynb)
-11. ["LGBM on Lyft Tabular Data [Inference] + Tuning"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
-12. ["COVID-19 with H2OAutoML Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
-13. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
+1. [Optimized Logit LightGBM Classifier and CNN Models](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
+    - Lead sentences
+      - Submitted a simulation of Multiple Model Systematization.
+      - Based on this failure, I was able to concentrate on LightGBM Optimization and Inference.
+    - Issue
+      - Exploring Optimization Models
+    - Significance
+      - Simulation iterations of the Optimization Model
+    - Purpose
+      - Optimize Utility Function by systematizing Multiple Models.
+    - Methodology
+      - Applying the Logit Transform to LightGBM
+      - Explore combining with CNN
+    - Results
+      - Score: 3344.738 (Outside of Medal Zone)
+      - Code: 15 Points
+    - Considerations
+      - This code does LightGBM and CNN at the same time, which was prone to overflow.
+      - From now on, I will focus on one Model Optimization.
+    - Conclusion
+      - Code Bronze Medal
+3. ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
+4. ["LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
+5. ["LightGBM with the Inference and Empirical Analysis"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
+6. ["Submission and the Inference of LightGBM"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Submission_and_the_Inference_of_LightGBM.ipynb)
+7. ["Market Prediction XGBoost with GPU Modified"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
+8. ["Cassava Leaf Disease Best Keras CNN Tuning"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
+9. ["RFCX Residual Network with TPU Customized"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_RFCX_Residual_Network_with_TPU_Customized.ipynb)
+10. ["Research with Customized Sharp Weighted"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Research_with_Customized_Sharp_Weighted.ipynb)
+11. ["Optimize CatBoost HyperParameter with Optuna and GPU"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_CatBoost_HyperParameter_with_Optuna_and_GPU.ipynb)
+12. ["LGBM on Lyft Tabular Data [Inference] + Tuning"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
+13. ["COVID-19 with H2OAutoML Baseline"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
+14. ["Optimized Predictive Model with H2OAutoML"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
