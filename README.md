@@ -1,14 +1,17 @@
 # Kaggler
 ### About the Author
-- Name: [Satoru Shibata (柴田 怜)](https://www.linkedin.com/in/satoru-shibata-jp/)
-- Job: Data Scientist
-- Title & Score: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
+- Name: Satoru Shibata
+- Job: Data Scientist at AVANT CORPORATION
+  - Title & Score: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
+  - Programming Languages: Python/R/SQL
+  - Degree: MEcon at Sophia University
+
 ### Executive Summary
-| Departments      | Top Levels| Highest Rank | Awarded Medals                | 
-| :---:            | :---:   | :---:        | :---:                            |
-| **Code**         | 0.2%  | 317/161,898   | 3 Silver 13 Bronze  |
-| **Discussion**   | 0.3%    | 588/188,433   | 100 Bronze           |
-| **Datasets**     | 1%     | 354/34,643     | 3 Bronze             |
+| Departments      | Top Levels| Highest Rank | Awarded Medals     | 
+| :---:            | :-------: | :----------: | :----------------: |
+| **Code**         | 0.2%      | 317/161,898  | 3 Silver 13 Bronze |
+| **Discussion**   | 0.3%      | 588/188,433  | 100 Bronze         |
+| **Datasets**     | 1%        | 354/34,643   | 3 Bronze           |
 | **Competitions** | 20-30% Level
 
 ### Award Python Code in Jupyter Notebook
