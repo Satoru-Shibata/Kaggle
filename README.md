@@ -2,11 +2,10 @@
 ### About the Author
 - Name: Satoru Shibata
 - Job: Data Scientist at AVANT CORPORATION
-  - Title & Score: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
-  - Programming Languages: Python/R/SQL
+  - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1% (Python/R)](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
   - Degree: MEcon at Sophia University
 
-### Executive Summary
+### Score Table
 | Departments      | Top Levels| Highest Rank | Awarded Medals     | 
 | :---:            | :-------: | :----------: | :----------------: |
 | **Code**         | 0.2%      | 317/161,898  | 3 Silver 13 Bronze |
@@ -15,7 +14,7 @@
 | **Competitions** | 20-30%
 
 ### Award Python Code in Jupyter Notebook
-#### Abstract
+#### Executive Summary
 ##### 3 Silver Medals
 1. ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 2. ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
