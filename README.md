@@ -1,4 +1,4 @@
-# 20 Publications
+# 20 Data Science Publications
 ## Executive Summary
 ### About the Author
 - Name: Satoru Shibata
