@@ -12,15 +12,16 @@
 | **Code**         | 0.2%      | 317/161,898  | 3 Silver 13 Bronze |
 | **Discussion**   | 0.3%      | 588/188,433  | 100 Bronze         |
 | **Datasets**     | 1%        | 354/34,643   | 3 Bronze           |
-| **Competitions** | 20-30% Level
+| **Competitions** | 20-30%
 
 ### Award Python Code in Jupyter Notebook
-####  Solo 3 Silver Medals
+#### Abstract
+##### 3 Silver Medals
 1. ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 2. ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
 3. ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
 
-#### Solo 13 Bronze Medals
+##### 13 Bronze Medals
 1. ["Optimized Logit LightGBM Classifier and CNN Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
 2. ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
 3. ["LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
@@ -37,4 +38,4 @@
 
 ### Remarks
 - Current Status: Retirement
-- Reason: To focus on my job as a Data Scientist at AVANT CORPORATION (JPX 3836)
+- Reason: To focus on my job
