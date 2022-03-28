@@ -14,9 +14,10 @@
 | **Datasets**     | 1%        | 354/34,643   | 3 Bronze           |
 | **Competitions** | 20-30%
 
-### Awarded Python Code in Jupyter Notebook
-#### Abstract
-##### 3 Silver Medals
+### 16 Awarded Analytical Reports Abstract
+- Python
+- Jupyter Notebook
+#### 3 Silver Medals
 1. [Optimized LightGBM with Optuna adding SAKT Model](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
     - Lead sentences
       - Submitted code using two Ensemble Learning Methods.
@@ -84,7 +85,7 @@
     - Conclusion
       - Code Silver Medal
 
-##### 13 Bronze Medals
+#### 13 Bronze Medals
 1. ["Optimized Logit LightGBM Classifier and CNN Model"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
 2. ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
 3. ["LightGBM on GPU with Feature Engineering Optuna and Visualization"](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
