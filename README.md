@@ -1,4 +1,4 @@
-# 19 Publications
+# 20 Publications
 ## Executive Summary
 ### About the Author
 - Name: Satoru Shibata
@@ -444,3 +444,7 @@
 ##### 実装
 - Microsoft Excel
 - Microsoft Word
+
+#### [実証分析参考資料](https://github.com/Satoru-Shibata-JP/Publication/raw/main/%E5%AE%9F%E8%A8%BC%E5%88%86%E6%9E%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99.pdf)
+- 実証分析を用いるうえで必要な知識を要約した資料である。
+- Microsoft PowerPointにて作成した。
