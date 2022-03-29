@@ -1,11 +1,14 @@
 # 20 Data Science Publications
 ## Executive Summary
 ### About the Author
-- Name: Satoru Shibata
-- Job: Data Scientist at AVANT CORPORATION
+- Name: Satoru Shibata / 柴田 怜
+- Job: Data Scientist
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1% (Python/R)](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
+    - Current Status: Retirement to focus on my job
   - Degree: MEcon at Sophia University
-- Current Status: Retirement to focus on my job
+    - Total GPA 3.74/4.00 (93.5%)
+- Institution: AVANT CORPORATION
+  - JPX 3836
 
 ### Score Table
 | Departments      | Top Levels| Highest Rank | Awarded Medals     | 
@@ -15,9 +18,7 @@
 | **Datasets**     | 1%        | 354/34,643   | 3 Bronze           |
 | **Competitions** | 20-30%
 
-### 16 Awarded Analytical Reports Abstract
-- Python
-- Jupyter Notebook
+### Abstract 16 Awarded Analytical Reports posted on Kaggle 16GB Kernel Python
 #### 3 Silver Medals
 1. [Optimized LightGBM with Optuna adding SAKT Model](https://github.com/satorushibata0627/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
     - Lead sentences
