@@ -5,8 +5,8 @@
 - Job: Data Scientist
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1% (Python/R)](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
     - Current Status: Retirement to focus on my job
-  - Degree: MEcon at Sophia University
-    - Total GPA 3.74/4.00 (93.5%)
+  - Degree: MEcon in Causal Inference at Sophia University
+    - [Total GPA 3.74/4.00 (93.5%)](https://github.com/Satoru-Shibata-JP/Publication/raw/main/%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%AD%A6%E4%BF%AE%E5%A3%AB%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8.pdf)
 - Institution: AVANT CORPORATION
   - JPX 3836
 
@@ -361,7 +361,7 @@
     - Conclusion
       - Code Bronze Medal
 
-### 実証論文
+### 実証研究
 #### [エネルギー・気候変動・日本経済2050年問題向け動学的パネル因果推論モデリング](https://github.com/Satoru-Shibata-JP/Kaggler/raw/main/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87.pdf)
 
 ##### 要旨
@@ -388,7 +388,6 @@
 - 多重共線性
 
 #### [パネルVAR-SPDEモデルとLSTM精度評価アルゴリズム開発資料](https://github.com/Satoru-Shibata-JP/Kaggler/blob/main/Dev_Doc_PVARSPDE_LSTM.ipynb)
-
 ##### 要旨
 　エネルギー・気候変動・日本経済の各指標における因果関係を解明するためのアルゴリズム設計・実装を目的とする。
 <br>
@@ -427,7 +426,6 @@
   - Jupyter Notebook
 
 #### [上智大学修士論文（環境経済学)](https://github.com/Satoru-Shibata-JP/Kaggler/raw/main/%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%AD%A6%E4%BF%AE%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87.pdf)
-
 ##### 要旨
 　日本エネルギー改革策の持続可能性に関し、ドイツ・イギリス・フランスを先行事例とし、エネルギー政策に関連する政府統計を基に、各国に対数線形重回帰モデルを形成した。
  <br>
