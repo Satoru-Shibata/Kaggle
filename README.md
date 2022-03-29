@@ -4,9 +4,16 @@
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1% (Python/R)](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
-    - Current Status: Retirement to focus on my job
+    - Current Status: Retirement to focus on job of mine
   - Degree: MEcon in Causal Inference at Sophia University
     - [Total GPA 3.74/4.00 (93.5%)](https://github.com/Satoru-Shibata-JP/Publication/raw/main/%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%AD%A6%E4%BF%AE%E5%A3%AB%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8.pdf)
+   - 6 Coursera Certificates
+     - [Deep Learning for Business](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220307_Coursera_Deep_Learning_for_Business.pdf)
+     - [Practical Time Series Analysis](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
+     - [Exploratory Data Analysis for Machine Learning](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220325_Coursera_Exploratory_Data_Analysis_for_Machine_Learning.pdf)
+     - [Supervised Machine Learning Regression](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220328_Coursera_Supervised_Machine_Learning_Regression.pdf)
+     - [Data Science Math Skills](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20210916_Coursera_Data_Science_Math_Skills.pdf)
+     - [Blockchain Cryptocurrency Explained](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220222_Coursera_Blockchain_Cryptocurrency_Certification.pdf)
 - Institution: AVANT CORPORATION
   - JPX 3836
 
