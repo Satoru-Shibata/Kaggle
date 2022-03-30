@@ -17,14 +17,6 @@
         - [Total GPA 3.74/4.00 (93.5%)](https://github.com/Satoru-Shibata-JP/Publication/raw/main/%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%AD%A6%E4%BF%AE%E5%A3%AB%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8.pdf)
         - Course: [Statistics](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
       - [SQL for Statistics Essential Training](https://github.com/Satoru-Shibata-JP/Certification/raw/main/CertificateOfCompletion_SQL%20for%20Statistics%20Essential%20Training.pdf)
-    - 7 DX MOOCs
-      - [Digital Transformation](https://github.com/Satoru-Shibata-JP/Certification/raw/main/CertificateOfCompletion_Digital%20Transformation.pdf)
-      - [Marketing Analytics Presenting Digital Marketing Data](https://github.com/Satoru-Shibata-JP/Certification/raw/main/CertificateOfCompletion_Marketing%20Analytics%20Presenting%20Digital%20Marketing%20Data.pdf)
-      - [AI LAW ETHICS](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220223_Udemy_AI_LAW_ETHICS_Certification.pdf)
-      - [Digital Twin](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220223_Udemy_Digital_Twin_Certification.pdf)
-      - [Metaverse](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220222_Udemy_Metaverse_Certification.pdf)
-      - [XAI](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220222_Udemy_XAI_Certification.pdf)
-      - [5G Technology](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220223_Udemy_5G_Technology_Certification.pdf)
 - Institution: AVANT CORPORATION
   - JPX 3836
 
