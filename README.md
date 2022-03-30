@@ -4,19 +4,9 @@
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
-    - 7 Programming Languages
-      - Advanced Analysis
-         - Python
-         - R
-         - SQL
-      - Basic Web Dev
-        - HTML
-        - CSS
-        - Perl
-      - Some Business Efficiency
-        - Excel VBA  
+    - Programming: Python/R
     - Current Status: Retirement from Kaggle to focus on job of mine
-   - 7 Math Certificates
+   - 8 Stat Certificates
      - [Deep Learning for Business](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220307_Coursera_Deep_Learning_for_Business.pdf)
      - [Practical Time Series Analysis](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
      - [Exploratory Data Analysis for Machine Learning](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220325_Coursera_Exploratory_Data_Analysis_for_Machine_Learning.pdf)
@@ -26,6 +16,7 @@
      - MEcon in Causal Inference at Sophia University
         - [Total GPA 3.74/4.00 (93.5%)](https://github.com/Satoru-Shibata-JP/Publication/raw/main/%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E7%92%B0%E5%A2%83%E5%AD%A6%E4%BF%AE%E5%A3%AB%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8.pdf)
         - Course: [Statistics](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
+      - [SQL for Statistics Essential Training](https://github.com/Satoru-Shibata-JP/Certification/raw/main/CertificateOfCompletion_SQL%20for%20Statistics%20Essential%20Training.pdf)
 - Institution: AVANT CORPORATION
   - JPX 3836
 
