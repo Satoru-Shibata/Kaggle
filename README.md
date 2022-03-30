@@ -4,7 +4,7 @@
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
-    - 5 Programming Languages
+    - 7 Programming Languages
       - Advanced Analysis
          - Python
          - R
@@ -12,6 +12,9 @@
       - Basic Web Dev
         - HTML
         - CSS
+        - Perl
+      - Some Business Efficiency
+        - Excel VBA  
     - Current Status: Retirement from Kaggle to focus on job of mine
    - 7 Math Certificates
      - [Deep Learning for Business](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220307_Coursera_Deep_Learning_for_Business.pdf)
