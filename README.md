@@ -6,7 +6,7 @@
   - Title: [Kaggle Triple Expert Top 0.2%, 0.3%, 1%](https://github.com/satorushibata0627/Kaggle/raw/main/Kaggle_Triple_Expert_Evidence.pdf)
     - Programming: Python/R
     - Current Status: Retirement from Kaggle to focus on job of mine
-   - 8 Math Certificates
+   - 8 Math & Stat Certificates
      - [Deep Learning for Business](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220307_Coursera_Deep_Learning_for_Business.pdf)
      - [Practical Time Series Analysis](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20210917_Coursera_Practical_Time_Series_Analysis.pdf)
      - [Exploratory Data Analysis for Machine Learning](https://github.com/Satoru-Shibata-JP/Certification/raw/main/20220325_Coursera_Exploratory_Data_Analysis_for_Machine_Learning.pdf)
